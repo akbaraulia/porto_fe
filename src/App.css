@@ -24,6 +24,10 @@
   color: white;
 }
 
+.mt-50 {
+  margin-top: 50px !important;
+}
+
 .App-link {
   color: #61dafb;
 }

@@ -1,0 +1,100 @@
+.carousel-item img {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+* {
+    color: rgb(174, 174, 174) !important;
+
+}
+.selected {
+    color: rgb(63, 205, 50);
+}
+
+.navbar {
+    position: absolute;
+    z-index: 2 !important;
+    background-color: black !important;
+}
+.carousel-indicators li {
+    background-color: white !important;
+}
+
+.carousel-indicators .active {
+    background-color: white !important;
+}
+
+.custom-caption {
+    background-color: rgba(0, 0, 0, 0.3); 
+    padding: 20px; 
+  }
+  
+  .carousel-item img {
+    width: 100% !important;
+    height: auto !important;
+  }
+  .mt-50 {
+    margin-top: 50px !important;
+  }
+
+  .hero-section {
+    background-color: black !important;
+    width: 100% !important;
+    
+}
+
+.hero-content {
+    padding: 5rem;
+}
+.hero-image {
+    text-align: right;
+}
+
+.hero-image img {
+    max-width: 100%;
+    border-radius: 50px;
+    height: 25rem;
+}
+
+.hero-content {
+    text-align: left;
+    height: auto;
+    padding-top: 100px;
+
+}
+
+.hero-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #434343;
+}
+
+.hero-section .hero-content span {
+    color: rgb(63, 205, 50) !important;
+    font-weight: bold;
+}
+
+.hero-content button {
+
+    width: 273px;
+    height: 64px;
+    border: 1px solid #434343;
+    border-radius: 12px;
+}
+
+
+.hero-content h6 {
+    font-size: 20px;
+    color: #434343;
+    margin-bottom: 20px;
+}
+
+
+.btn-outline-secondary:hover {
+    background-color: blue;
+    color: white; 
+  }
